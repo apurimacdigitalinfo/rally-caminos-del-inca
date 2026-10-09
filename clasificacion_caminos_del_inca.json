@@ -8,388 +8,388 @@
   },
   {
     "posicion": 2,
-    "numero": "58",
-    "tripulacion": "Samuel M. Dyer \\ Javiera Roman   Ford Fiesta Rally 3",
-    "categoria": "RC3",
-    "tiempo": "0:02:17.2"
-  },
-  {
-    "posicion": 3,
     "numero": "47",
     "tripulacion": "Andre Martinez \\ Matias Aranguren   Ford Fiesta Rally 3",
     "categoria": "RC3",
     "tiempo": "0:02:20.3"
   },
   {
-    "posicion": 4,
+    "posicion": 3,
     "numero": "59",
     "tripulacion": "Jorge Martinez \\ Jose Aros   Hyundai I20 N",
     "categoria": "RC2",
     "tiempo": "0:02:20.7"
   },
   {
-    "posicion": 5,
+    "posicion": 4,
     "numero": "724",
     "tripulacion": "Ronmel Palomino \\ Guillermo Sierra   Skoda Fabia N5",
     "categoria": "TIN",
     "tiempo": "0:02:20.9"
   },
   {
-    "posicion": 6,
+    "posicion": 5,
     "numero": "40",
     "tripulacion": "Carlos Castro Yangali \\ Hernan Vargas   Ford Fiesta",
     "categoria": "RC3",
     "tiempo": "0:02:23.3"
   },
   {
-    "posicion": 7,
+    "posicion": 6,
     "numero": "716",
     "tripulacion": "Raul Orlandini \\ Pedro La Cruz   Mitsubishi Evo X",
     "categoria": "TIN",
     "tiempo": "0:02:25.1"
   },
   {
-    "posicion": 8,
+    "posicion": 7,
     "numero": "769",
     "tripulacion": "Luis Mendoza Del Valle \\ Facundo Olazabal   Toyota Gr Yaris",
     "categoria": "TIN",
     "tiempo": "0:02:25.1"
   },
   {
-    "posicion": 9,
+    "posicion": 8,
     "numero": "712",
     "tripulacion": "Luis Alayza \\ Gabriel Lozada   Toyota Gr Yaris",
     "categoria": "TIN",
     "tiempo": "0:02:27.0"
   },
   {
-    "posicion": 10,
+    "posicion": 9,
     "numero": "719",
     "tripulacion": "Ricardo Dasso \\ Miguel Alvarez   Toyota Gr Yaris",
     "categoria": "TIN",
     "tiempo": "0:02:28.3"
   },
   {
-    "posicion": 11,
+    "posicion": 10,
     "numero": "734",
     "tripulacion": "Richard Palomino \\ Jose Rojas   Skoda Fabia N5",
     "categoria": "TIN",
     "tiempo": "0:02:29.1"
   },
   {
-    "posicion": 12,
+    "posicion": 11,
     "numero": "73",
     "tripulacion": "Humberto Gomez \\ Jimmy Gomez   Peugeot 208 R4",
     "categoria": "RC4",
     "tiempo": "0:02:29.2"
   },
   {
-    "posicion": 13,
+    "posicion": 12,
     "numero": "39",
     "tripulacion": "Roberto Matos F. \\ Alvaro Rivera   Ford Fiesta",
     "categoria": "RC3",
     "tiempo": "0:02:29.3"
   },
   {
-    "posicion": 14,
+    "posicion": 13,
     "numero": "57",
     "tripulacion": "Samuel Dyer \\ Julio Echazu   Ford Fiesta Rally 3",
     "categoria": "RC3",
     "tiempo": "0:02:29.7"
   },
   {
-    "posicion": 15,
+    "posicion": 14,
     "numero": "68",
     "tripulacion": "Rodrigo Ccoyo \\ Alvaro Chavez   Peugeot 208 R4",
     "categoria": "RC4",
     "tiempo": "0:02:31.2"
   },
   {
-    "posicion": 16,
+    "posicion": 15,
     "numero": "398",
     "tripulacion": "Santiago Aguayo \\ Ricardo Rivera   Toyota Gt86",
     "categoria": "S2000",
     "tiempo": "0:02:31.2"
   },
   {
-    "posicion": 17,
+    "posicion": 16,
     "numero": "768",
     "tripulacion": "Manuel Yañez \\ Brian Caceres   Toyota Yaris N5",
     "categoria": "TIN",
     "tiempo": "0:02:31.3"
   },
   {
-    "posicion": 18,
+    "posicion": 17,
     "numero": "742",
     "tripulacion": "Nicolas Fuchs \\ Fernando Mussano   Toyota Gr Yaris",
     "categoria": "TIN",
     "tiempo": "0:02:31.6"
   },
   {
-    "posicion": 19,
+    "posicion": 18,
     "numero": "66",
     "tripulacion": "Jose Frisancho \\ Francisco Tiravanti   Peugeot 208",
     "categoria": "RC4",
     "tiempo": "0:02:32.4"
   },
   {
-    "posicion": 20,
+    "posicion": 19,
     "numero": "52",
     "tripulacion": "Nelson Quispe \\ Erik Quispe   Renault Clio",
     "categoria": "RC3",
     "tiempo": "0:02:32.8"
   },
   {
-    "posicion": 21,
+    "posicion": 20,
     "numero": "386",
     "tripulacion": "Takeo Matayoshi \\ Diego Medina   Subaru Brz",
     "categoria": "S2000",
     "tiempo": "0:02:33.0"
   },
   {
-    "posicion": 22,
+    "posicion": 21,
     "numero": "48",
     "tripulacion": "Jimver Aramayo \\ Juan Antonio Figueroa   Renault Clio",
     "categoria": "RC3",
     "tiempo": "0:02:33.0"
   },
   {
-    "posicion": 23,
+    "posicion": 22,
     "numero": "404",
     "tripulacion": "Rubel Caceres \\ Saul Totos   Toyota Corolla",
     "categoria": "ST",
     "tiempo": "0:02:34.9"
   },
   {
-    "posicion": 24,
+    "posicion": 23,
     "numero": "433",
     "tripulacion": "Briz Alvarado \\ Eric Sandhaus   Honda Civic",
     "categoria": "ST",
     "tiempo": "0:02:35.1"
   },
   {
-    "posicion": 25,
+    "posicion": 24,
     "numero": "105",
     "tripulacion": "Pablo Lizarzaburu \\ Jaime Galarza   Kia Rio Lx",
     "categoria": "S1600",
     "tiempo": "0:02:35.2"
   },
   {
-    "posicion": 26,
+    "posicion": 25,
     "numero": "354",
     "tripulacion": "Irving Paiva \\ Aron Galván   Honda Civic",
     "categoria": "S2000",
     "tiempo": "0:02:36.0"
   },
   {
-    "posicion": 27,
+    "posicion": 26,
     "numero": "255",
     "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco   Toyota Auris",
     "categoria": "S1600",
     "tiempo": "0:02:36.1"
   },
   {
-    "posicion": 28,
+    "posicion": 27,
     "numero": "381",
     "tripulacion": "Jorge Rivera \\ Eulogio Acuña   Honda Civic",
     "categoria": "S2000",
     "tiempo": "0:02:37.4"
   },
   {
-    "posicion": 29,
+    "posicion": 28,
     "numero": "19",
     "tripulacion": "Bradley Salazar \\ Josecarlo Espinoza   Can-Am Maverick Rx",
     "categoria": "UTV",
     "tiempo": "0:02:37.9"
   },
   {
-    "posicion": 30,
+    "posicion": 29,
     "numero": "340",
     "tripulacion": "Gerson Pastrana \\ Gezer Pastrana   Honda Civic",
     "categoria": "S2000",
     "tiempo": "0:02:38.0"
   },
   {
-    "posicion": 31,
+    "posicion": 30,
     "numero": "570",
     "tripulacion": "Alvaro Silva \\ Paolo Zani   Vw Amarok V6",
     "categoria": "T1",
     "tiempo": "0:02:39.0"
   },
   {
-    "posicion": 32,
+    "posicion": 31,
     "numero": "540",
     "tripulacion": "Diego Malaga \\ Oswaldo Carbone   Vw Amarok V6",
     "categoria": "T1",
     "tiempo": "0:02:39.4"
   },
   {
-    "posicion": 33,
+    "posicion": 32,
     "numero": "230",
     "tripulacion": "Mario Camac \\ Maicol Flores   Toyota",
     "categoria": "S1600",
     "tiempo": "0:02:39.5"
   },
   {
-    "posicion": 34,
+    "posicion": 33,
     "numero": "736",
     "tripulacion": "Alipio Aysa \\ Carlos Valdivia   Toyota Yaris N5",
     "categoria": "TIN",
     "tiempo": "0:02:39.6"
   },
   {
-    "posicion": 35,
+    "posicion": 34,
     "numero": "413",
     "tripulacion": "Alex Cruz \\ Leonardo Cruz   Honda Civic",
     "categoria": "ST",
     "tiempo": "0:02:39.7"
   },
   {
-    "posicion": 36,
+    "posicion": 35,
     "numero": "259",
     "tripulacion": "Diego Valencia \\ Meyer Gomez   Hyundai Atos",
     "categoria": "S1600",
     "tiempo": "0:02:39.8"
   },
   {
-    "posicion": 37,
+    "posicion": 36,
     "numero": "244",
     "tripulacion": "Annia Cilloniz \\ Eugenio Arrieta   Toyota Corolla",
     "categoria": "S1600",
     "tiempo": "0:02:40.1"
   },
   {
-    "posicion": 38,
+    "posicion": 37,
     "numero": "678",
     "tripulacion": "Marko Garces \\ Luis Carazas   Mitsubishi Evo V",
     "categoria": "TIL",
     "tiempo": "0:02:40.4"
   },
   {
-    "posicion": 39,
+    "posicion": 38,
     "numero": "520",
     "tripulacion": "Jesus Jurado \\ Carlos Elias   Toyota Hilux",
     "categoria": "T1",
     "tiempo": "0:02:40.6"
   },
   {
-    "posicion": 40,
+    "posicion": 39,
     "numero": "67",
     "tripulacion": "Raul Ccoyo \\ Alvaro Cornejo   Renault Clio",
     "categoria": "RC4",
     "tiempo": "0:02:40.7"
   },
   {
-    "posicion": 41,
+    "posicion": 40,
     "numero": "318",
     "tripulacion": "Carlos Zegarra \\ Renzo Gutierrez   Honda Civic",
     "categoria": "S2000",
     "tiempo": "0:02:41.3"
   },
   {
-    "posicion": 42,
+    "posicion": 41,
     "numero": "627",
     "tripulacion": "Rosmel Chumpe \\ Reynaldo Chumpe   Mitsubishi",
     "categoria": "TIL",
     "tiempo": "0:02:41.3"
   },
   {
-    "posicion": 43,
+    "posicion": 42,
     "numero": "620",
     "tripulacion": "Ronald Llihua \\ Ricardo Paitan   Mitsubishi Evo Ix",
     "categoria": "TIL",
     "tiempo": "0:02:41.6"
   },
   {
-    "posicion": 44,
+    "posicion": 43,
     "numero": "729",
     "tripulacion": "Wilfredo Aysa \\ Samael Bendezu   Skoda Fabia Aos",
     "categoria": "TIN",
     "tiempo": "0:02:42.0"
   },
   {
-    "posicion": 45,
+    "posicion": 44,
     "numero": "545",
     "tripulacion": "Ashley Garcia \\ Nicolas Montgomery   Jac T8 Pro",
     "categoria": "T1",
     "tiempo": "0:02:42.0"
   },
   {
-    "posicion": 46,
+    "posicion": 45,
     "numero": "140",
     "tripulacion": "Grimaldo Lupo \\ Edwin Lupo   Toyota Levin",
     "categoria": "S1600",
     "tiempo": "0:02:42.1"
   },
   {
-    "posicion": 47,
+    "posicion": 46,
     "numero": "144",
     "tripulacion": "Yimi Paiva \\ Jorge Luis Urpi   Toyota Vitz",
     "categoria": "S1600",
     "tiempo": "0:02:42.2"
   },
   {
-    "posicion": 48,
+    "posicion": 47,
     "numero": "612",
     "tripulacion": "Miguel Alayza \\ Jaime Zevallos   Subaru Forester",
     "categoria": "TIL",
     "tiempo": "0:02:42.9"
   },
   {
-    "posicion": 49,
+    "posicion": 48,
     "numero": "726",
     "tripulacion": "William Loa Quispe \\ Erick Ocampo   Mitsubishi Lancer Evo 9",
     "categoria": "TIN",
     "tiempo": "0:02:43.6"
   },
   {
-    "posicion": 50,
+    "posicion": 49,
     "numero": "384",
     "tripulacion": "Carlos Alania \\ Brian Alania   Honda Civic",
     "categoria": "S2000",
     "tiempo": "0:02:44.5"
   },
   {
-    "posicion": 51,
+    "posicion": 50,
     "numero": "219",
     "tripulacion": "Erich Polack \\ Eduardo Bedoya   Toyota Corolla",
     "categoria": "S1600",
     "tiempo": "0:02:44.8"
   },
   {
-    "posicion": 52,
+    "posicion": 51,
     "numero": "368",
     "tripulacion": "David Cahuana \\ Ayrton Ortega   Honda Civic",
     "categoria": "S2000",
     "tiempo": "0:02:44.8"
   },
   {
-    "posicion": 53,
+    "posicion": 52,
     "numero": "158",
     "tripulacion": "Yerry Urday \\ Gustavo Cervantes   Honda Civic",
     "categoria": "S1600",
     "tiempo": "0:02:45.0"
   },
   {
-    "posicion": 54,
+    "posicion": 53,
     "numero": "577",
     "tripulacion": "Jose Carlos Vallejo \\ Miguel Makino   Vw Amarok V6",
     "categoria": "T1",
     "tiempo": "0:02:45.9"
   },
   {
-    "posicion": 55,
+    "posicion": 54,
     "numero": "505",
     "tripulacion": "Diego Navea \\ Manuel Marengo   JMC",
     "categoria": "CAM",
     "tiempo": "0:02:46.4"
   },
   {
-    "posicion": 56,
+    "posicion": 55,
     "numero": "709",
     "tripulacion": "Edgar Loa Quispe \\ Guilles Yangali   Toyota Yaris N5",
     "categoria": "TIN",
     "tiempo": "0:02:47.0"
+  },
+  {
+    "posicion": 56,
+    "numero": "58",
+    "tripulacion": "Samuel M. Dyer \\ Javiera Roman   Ford Fiesta Rally 3",
+    "categoria": "RC3",
+    "tiempo": "0:02:47.2 \n 0:00:30.0"
   },
   {
     "posicion": 57,
