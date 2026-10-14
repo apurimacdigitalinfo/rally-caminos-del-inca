@@ -519,72 +519,72 @@
   },
   {
     "posicion": 75,
+    "numero": "231",
+    "tripulacion": "Jhon Cerron \\ Alexander Contreras Renault Clio",
+    "categoria": "S1600",
+    "tiempo": "2:25:34.4"
+  },
+  {
+    "posicion": 76,
     "numero": "266",
     "tripulacion": "Alonso Mejia \\ Daniel Mejia Subaru Impreza",
     "categoria": "S1600",
     "tiempo": "2:28:54.5"
   },
   {
-    "posicion": 76,
+    "posicion": 77,
     "numero": "768",
     "tripulacion": "Manuel Yañez \\ Brian Caceres Toyota Yaris N5",
     "categoria": "TIN",
     "tiempo": "2:29:54.6"
   },
   {
-    "posicion": 77,
+    "posicion": 78,
+    "numero": "709",
+    "tripulacion": "Edgar Loa Quispe \\ Guilles Yangali Toyota Yaris N5",
+    "categoria": "TIN",
+    "tiempo": "2:38:28.3"
+  },
+  {
+    "posicion": 79,
+    "numero": "235",
+    "tripulacion": "Luis Villasante \\ Jose Villasante Toyota Corolla",
+    "categoria": "S1600",
+    "tiempo": "2:40:43.3"
+  },
+  {
+    "posicion": 80,
     "numero": "431",
     "tripulacion": "Dante Febres \\ Andres Ramos Nissan Pulsar",
     "categoria": "ST",
     "tiempo": "2:46:14.2"
   },
   {
-    "posicion": 78,
-    "numero": "742",
-    "tripulacion": "Nicolas Fuchs \\ Fernando Mussano Toyota Gr Yaris",
-    "categoria": "TIN",
-    "tiempo": "Abandono"
-  },
-  {
-    "posicion": 79,
-    "numero": "784",
-    "tripulacion": "Percy Ccoyo \\ Angel Tapia Toyota Gr Yaris",
-    "categoria": "TIN",
-    "tiempo": "Abandono"
-  },
-  {
-    "posicion": 80,
-    "numero": "219",
-    "tripulacion": "Erich Polack \\ Eduardo Bedoya Toyota Corolla",
-    "categoria": "S1600",
-    "tiempo": "Abandono"
-  },
-  {
     "posicion": 81,
-    "numero": "480",
-    "tripulacion": "Junior Ellesca \\ Franklin Ellesca Toyota Curren",
-    "categoria": "ST",
-    "tiempo": "Abandono"
+    "numero": "255",
+    "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
+    "categoria": "S1600",
+    "tiempo": "2:52:06.9"
   },
   {
     "posicion": 82,
-    "numero": "226",
-    "tripulacion": "Pedro Nestares \\ Frank Nestares Peugeot 206",
-    "categoria": "S1600",
-    "tiempo": "Abandono"
+    "numero": "433",
+    "tripulacion": "Briz Alvarado \\ Eric Sandhaus Honda Civic",
+    "categoria": "ST",
+    "tiempo": "3:39:39.2"
   },
   {
     "posicion": 83,
-    "numero": "365",
-    "tripulacion": "Darwin Montoya \\ Rosmer Mamani Bmw 3 Series",
-    "categoria": "S2000",
-    "tiempo": "Abandono"
+    "numero": "627",
+    "tripulacion": "Rosmel Chumpe \\ Reynaldo Chumpe Mitsubishi",
+    "categoria": "TIL",
+    "tiempo": "4:03:05.3"
   },
   {
     "posicion": 84,
-    "numero": "678",
-    "tripulacion": "Marko Garces \\ Luis Carazas Mitsubishi Evo V",
-    "categoria": "TIL",
+    "numero": "742",
+    "tripulacion": "Nicolas Fuchs \\ Fernando Mussano Toyota Gr Yaris",
+    "categoria": "TIN",
     "tiempo": "Abandono"
   },
   {
@@ -592,68 +592,68 @@
     "numero": "58",
     "tripulacion": "Samuel M. Dyer \\ Javiera Roman Ford Fiesta Rally 3",
     "categoria": "RC3",
-    "tiempo": "Partio"
+    "tiempo": "Abandono"
   },
   {
     "posicion": 86,
     "numero": "57",
     "tripulacion": "Samuel Dyer \\ Julio Echazu Ford Fiesta Rally 3",
     "categoria": "RC3",
-    "tiempo": "Partio"
+    "tiempo": "Abandono"
   },
   {
     "posicion": 87,
-    "numero": "627",
-    "tripulacion": "Rosmel Chumpe \\ Reynaldo Chumpe Mitsubishi",
-    "categoria": "TIL",
-    "tiempo": "Partio"
+    "numero": "784",
+    "tripulacion": "Percy Ccoyo \\ Angel Tapia Toyota Gr Yaris",
+    "categoria": "TIN",
+    "tiempo": "Abandono"
   },
   {
     "posicion": 88,
-    "numero": "433",
-    "tripulacion": "Briz Alvarado \\ Eric Sandhaus Honda Civic",
-    "categoria": "ST",
-    "tiempo": "Partio"
+    "numero": "219",
+    "tripulacion": "Erich Polack \\ Eduardo Bedoya Toyota Corolla",
+    "categoria": "S1600",
+    "tiempo": "Abandono"
   },
   {
     "posicion": 89,
-    "numero": "144",
-    "tripulacion": "Yimi Paiva \\ Jorge Luis Urpi Toyota Vitz",
-    "categoria": "S1600",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 90,
     "numero": "225",
     "tripulacion": "Jhon Centeno \\ Frank Umeres Toyota Levin",
     "categoria": "S1600",
-    "tiempo": "Partio"
+    "tiempo": "Abandono"
+  },
+  {
+    "posicion": 90,
+    "numero": "480",
+    "tripulacion": "Junior Ellesca \\ Franklin Ellesca Toyota Curren",
+    "categoria": "ST",
+    "tiempo": "Abandono"
   },
   {
     "posicion": 91,
-    "numero": "235",
-    "tripulacion": "Luis Villasante \\ Jose Villasante Toyota Corolla",
+    "numero": "226",
+    "tripulacion": "Pedro Nestares \\ Frank Nestares Peugeot 206",
     "categoria": "S1600",
-    "tiempo": "Partio"
+    "tiempo": "Abandono"
   },
   {
     "posicion": 92,
-    "numero": "709",
-    "tripulacion": "Edgar Loa Quispe \\ Guilles Yangali Toyota Yaris N5",
-    "categoria": "TIN",
-    "tiempo": "Partio"
+    "numero": "365",
+    "tripulacion": "Darwin Montoya \\ Rosmer Mamani Bmw 3 Series",
+    "categoria": "S2000",
+    "tiempo": "Abandono"
   },
   {
     "posicion": 93,
-    "numero": "255",
-    "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
-    "categoria": "S1600",
-    "tiempo": "Partio"
+    "numero": "678",
+    "tripulacion": "Marko Garces \\ Luis Carazas Mitsubishi Evo V",
+    "categoria": "TIL",
+    "tiempo": "Abandono"
   },
   {
     "posicion": 94,
-    "numero": "231",
-    "tripulacion": "Jhon Cerron \\ Alexander Contreras Renault Clio",
+    "numero": "144",
+    "tripulacion": "Yimi Paiva \\ Jorge Luis Urpi Toyota Vitz",
     "categoria": "S1600",
     "tiempo": "Partio"
   },
@@ -1142,191 +1142,191 @@
   },
   {
     "posicion": 69,
+    "numero": "709",
+    "tripulacion": "Edgar Loa Quispe \\ Guilles Yangali Toyota Yaris N5",
+    "categoria": "TIN",
+    "tiempo": "10:30:00.9 0:30:00.0"
+  },
+  {
+    "posicion": 70,
+    "numero": "433",
+    "tripulacion": "Briz Alvarado \\ Eric Sandhaus Honda Civic",
+    "categoria": "ST",
+    "tiempo": "10:59:02.2 0:30:00.0"
+  },
+  {
+    "posicion": 71,
     "numero": "610",
     "tripulacion": "Roel Torres \\ Juan Chipa Mitsubishi Evo Vii",
     "categoria": "TIL",
     "tiempo": "11:08:41.7 0:44:00.0"
   },
   {
-    "posicion": 70,
+    "posicion": 72,
     "numero": "1",
     "tripulacion": "Anibal Aliaga \\ Javier Marchese Can-Am Maverick R",
     "categoria": "UTV",
     "tiempo": "11:09:45.8 0:30:00.0"
   },
   {
-    "posicion": 71,
+    "posicion": 73,
     "numero": "419",
     "tripulacion": "Julio Huacasi \\ Rodrigo Huacasi Toyota Curren",
     "categoria": "ST",
     "tiempo": "11:28:30.1 1:08:00.0"
   },
   {
-    "posicion": 72,
+    "posicion": 74,
+    "numero": "235",
+    "tripulacion": "Luis Villasante \\ Jose Villasante Toyota Corolla",
+    "categoria": "S1600",
+    "tiempo": "11:48:53.8 0:34:40.0"
+  },
+  {
+    "posicion": 75,
     "numero": "230",
     "tripulacion": "Mario Camac \\ Maicol Flores Toyota",
     "categoria": "S1600",
     "tiempo": "11:54:48.1 0:30:00.0"
   },
   {
-    "posicion": 73,
+    "posicion": 76,
     "numero": "340",
     "tripulacion": "Gerson Pastrana \\ Gezer Pastrana Honda Civic",
     "categoria": "S2000",
     "tiempo": "11:55:06.2 0:30:00.0"
   },
   {
-    "posicion": 74,
+    "posicion": 77,
     "numero": "518",
     "tripulacion": "Mandela Rivera \\ Diego Velasquez Nissan Fiera",
     "categoria": "CAM",
     "tiempo": "11:57:51.8 0:30:00.0"
   },
   {
-    "posicion": 75,
+    "posicion": 78,
     "numero": "70",
     "tripulacion": "Sandro Davila V. \\ Cesar Ortiz Peugeot 208 R4",
     "categoria": "RC4",
     "tiempo": "11:59:41.8 0:30:00.0"
   },
   {
-    "posicion": 76,
+    "posicion": 79,
+    "numero": "255",
+    "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
+    "categoria": "S1600",
+    "tiempo": "12:09:36.4 1:00:30.0"
+  },
+  {
+    "posicion": 80,
     "numero": "657",
     "tripulacion": "Otto Quispeayala \\ Boris Ramos Subaru Impreza",
     "categoria": "TIL",
     "tiempo": "12:14:23.6 0:35:00.0"
   },
   {
-    "posicion": 77,
+    "posicion": 81,
     "numero": "93",
     "tripulacion": "Isaura Huallpartupa \\ Bernardino Huallpartupa Suzuki Celerio",
     "categoria": "PROM",
     "tiempo": "12:19:51.5 0:30:00.0"
   },
   {
-    "posicion": 78,
+    "posicion": 82,
+    "numero": "627",
+    "tripulacion": "Rosmel Chumpe \\ Reynaldo Chumpe Mitsubishi",
+    "categoria": "TIL",
+    "tiempo": "13:27:08.8 0:30:00.0"
+  },
+  {
+    "posicion": 83,
+    "numero": "231",
+    "tripulacion": "Jhon Cerron \\ Alexander Contreras Renault Clio",
+    "categoria": "S1600",
+    "tiempo": "14:01:44.9 1:00:00.0"
+  },
+  {
+    "posicion": 84,
     "numero": "238",
     "tripulacion": "Isaac Paliza \\ Lino Bernachea Ford Escort",
     "categoria": "S1600(C)",
     "tiempo": "Partio"
   },
   {
-    "posicion": 79,
+    "posicion": 85,
     "numero": "742",
     "tripulacion": "Nicolas Fuchs \\ Fernando Mussano Toyota Gr Yaris",
     "categoria": "TIN",
     "tiempo": "Abandono"
   },
   {
-    "posicion": 80,
+    "posicion": 86,
     "numero": "58",
     "tripulacion": "Samuel M. Dyer \\ Javiera Roman Ford Fiesta Rally 3",
     "categoria": "RC3",
-    "tiempo": "Partio"
+    "tiempo": "Abandono"
   },
   {
-    "posicion": 81,
+    "posicion": 87,
     "numero": "57",
     "tripulacion": "Samuel Dyer \\ Julio Echazu Ford Fiesta Rally 3",
     "categoria": "RC3",
-    "tiempo": "Partio"
+    "tiempo": "Abandono"
   },
   {
-    "posicion": 82,
-    "numero": "627",
-    "tripulacion": "Rosmel Chumpe \\ Reynaldo Chumpe Mitsubishi",
-    "categoria": "TIL",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 83,
+    "posicion": 88,
     "numero": "784",
     "tripulacion": "Percy Ccoyo \\ Angel Tapia Toyota Gr Yaris",
     "categoria": "TIN",
     "tiempo": "Abandono"
   },
   {
-    "posicion": 84,
-    "numero": "433",
-    "tripulacion": "Briz Alvarado \\ Eric Sandhaus Honda Civic",
-    "categoria": "ST",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 85,
+    "posicion": 89,
     "numero": "144",
     "tripulacion": "Yimi Paiva \\ Jorge Luis Urpi Toyota Vitz",
     "categoria": "S1600",
     "tiempo": "Partio"
   },
   {
-    "posicion": 86,
+    "posicion": 90,
     "numero": "219",
     "tripulacion": "Erich Polack \\ Eduardo Bedoya Toyota Corolla",
     "categoria": "S1600",
     "tiempo": "Abandono"
   },
   {
-    "posicion": 87,
+    "posicion": 91,
     "numero": "225",
     "tripulacion": "Jhon Centeno \\ Frank Umeres Toyota Levin",
     "categoria": "S1600",
-    "tiempo": "Partio"
+    "tiempo": "Abandono"
   },
   {
-    "posicion": 88,
+    "posicion": 92,
     "numero": "480",
     "tripulacion": "Junior Ellesca \\ Franklin Ellesca Toyota Curren",
     "categoria": "ST",
     "tiempo": "Abandono"
   },
   {
-    "posicion": 89,
+    "posicion": 93,
     "numero": "226",
     "tripulacion": "Pedro Nestares \\ Frank Nestares Peugeot 206",
     "categoria": "S1600",
     "tiempo": "Abandono"
   },
   {
-    "posicion": 90,
-    "numero": "235",
-    "tripulacion": "Luis Villasante \\ Jose Villasante Toyota Corolla",
-    "categoria": "S1600",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 91,
-    "numero": "709",
-    "tripulacion": "Edgar Loa Quispe \\ Guilles Yangali Toyota Yaris N5",
-    "categoria": "TIN",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 92,
+    "posicion": 94,
     "numero": "365",
     "tripulacion": "Darwin Montoya \\ Rosmer Mamani Bmw 3 Series",
     "categoria": "S2000",
     "tiempo": "Abandono"
   },
   {
-    "posicion": 93,
+    "posicion": 95,
     "numero": "678",
     "tripulacion": "Marko Garces \\ Luis Carazas Mitsubishi Evo V",
     "categoria": "TIL",
     "tiempo": "Abandono"
-  },
-  {
-    "posicion": 94,
-    "numero": "255",
-    "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
-    "categoria": "S1600",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 95,
-    "numero": "231",
-    "tripulacion": "Jhon Cerron \\ Alexander Contreras Renault Clio",
-    "categoria": "S1600",
-    "tiempo": "Partio"
   }
 ]
