@@ -56,6 +56,132 @@
     "tiempo": "Partio"
   },
   {
+    "posicion": 9,
+    "numero": "716",
+    "tripulacion": "Raul Orlandini \\ Pedro La Cruz Mitsubishi Evo X",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 10,
+    "numero": "57",
+    "tripulacion": "Samuel Dyer \\ Julio Echazu Ford Fiesta Rally 3",
+    "categoria": "RC3",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 11,
+    "numero": "719",
+    "tripulacion": "Ricardo Dasso \\ Miguel Alvarez Toyota Gr Yaris",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 12,
+    "numero": "734",
+    "tripulacion": "Richard Palomino \\ Jose Rojas Skoda Fabia N5",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 13,
+    "numero": "67",
+    "tripulacion": "Raul Ccoyo \\ Alvaro Cornejo Renault Clio",
+    "categoria": "RC4",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 14,
+    "numero": "769",
+    "tripulacion": "Luis Mendoza Del Valle \\ Facundo Olazabal Toyota Gr Yaris",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 15,
+    "numero": "768",
+    "tripulacion": "Manuel Yañez \\ Brian Caceres Toyota Yaris N5",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 16,
+    "numero": "729",
+    "tripulacion": "Wilfredo Aysa \\ Samael Bendezu Skoda Fabia Aos",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 17,
+    "numero": "49",
+    "tripulacion": "Jenrry Quispe \\ Renzo Carpio Renault Clio",
+    "categoria": "RC3",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 18,
+    "numero": "520",
+    "tripulacion": "Jesus Jurado \\ Carlos Elias Toyota Hilux",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 19,
+    "numero": "52",
+    "tripulacion": "Nelson Quispe \\ Erik Quispe Renault Clio",
+    "categoria": "RC3",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 20,
+    "numero": "68",
+    "tripulacion": "Rodrigo Ccoyo \\ Alvaro Chavez Peugeot 208 R4",
+    "categoria": "RC4",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 21,
+    "numero": "570",
+    "tripulacion": "Alvaro Silva \\ Paolo Zani Vw Amarok V6",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 22,
+    "numero": "66",
+    "tripulacion": "Jose Frisancho \\ Francisco Tiravanti Peugeot 208",
+    "categoria": "RC4",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 23,
+    "numero": "627",
+    "tripulacion": "Rosmel Chumpe \\ Reynaldo Chumpe Mitsubishi",
+    "categoria": "TIL",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 24,
+    "numero": "1",
+    "tripulacion": "Anibal Aliaga \\ Javier Marchese Can-Am Maverick R",
+    "categoria": "UTV",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 25,
+    "numero": "19",
+    "tripulacion": "Bradley Salazar \\ Josecarlo Espinoza Can-Am Maverick Rx",
+    "categoria": "UTV",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 26,
+    "numero": "577",
+    "tripulacion": "Jose Carlos Vallejo \\ Miguel Makino Vw Amarok V6",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
     "posicion": 1,
     "numero": "47",
     "tripulacion": "Andre Martinez \\ Matias Aranguren Ford Fiesta Rally 3",
@@ -109,6 +235,132 @@
     "numero": "724",
     "tripulacion": "Ronmel Palomino \\ Guillermo Sierra Skoda Fabia N5",
     "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 9,
+    "numero": "716",
+    "tripulacion": "Raul Orlandini \\ Pedro La Cruz Mitsubishi Evo X",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 10,
+    "numero": "57",
+    "tripulacion": "Samuel Dyer \\ Julio Echazu Ford Fiesta Rally 3",
+    "categoria": "RC3",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 11,
+    "numero": "719",
+    "tripulacion": "Ricardo Dasso \\ Miguel Alvarez Toyota Gr Yaris",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 12,
+    "numero": "734",
+    "tripulacion": "Richard Palomino \\ Jose Rojas Skoda Fabia N5",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 13,
+    "numero": "67",
+    "tripulacion": "Raul Ccoyo \\ Alvaro Cornejo Renault Clio",
+    "categoria": "RC4",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 14,
+    "numero": "769",
+    "tripulacion": "Luis Mendoza Del Valle \\ Facundo Olazabal Toyota Gr Yaris",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 15,
+    "numero": "768",
+    "tripulacion": "Manuel Yañez \\ Brian Caceres Toyota Yaris N5",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 16,
+    "numero": "729",
+    "tripulacion": "Wilfredo Aysa \\ Samael Bendezu Skoda Fabia Aos",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 17,
+    "numero": "49",
+    "tripulacion": "Jenrry Quispe \\ Renzo Carpio Renault Clio",
+    "categoria": "RC3",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 18,
+    "numero": "520",
+    "tripulacion": "Jesus Jurado \\ Carlos Elias Toyota Hilux",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 19,
+    "numero": "52",
+    "tripulacion": "Nelson Quispe \\ Erik Quispe Renault Clio",
+    "categoria": "RC3",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 20,
+    "numero": "68",
+    "tripulacion": "Rodrigo Ccoyo \\ Alvaro Chavez Peugeot 208 R4",
+    "categoria": "RC4",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 21,
+    "numero": "570",
+    "tripulacion": "Alvaro Silva \\ Paolo Zani Vw Amarok V6",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 22,
+    "numero": "66",
+    "tripulacion": "Jose Frisancho \\ Francisco Tiravanti Peugeot 208",
+    "categoria": "RC4",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 23,
+    "numero": "627",
+    "tripulacion": "Rosmel Chumpe \\ Reynaldo Chumpe Mitsubishi",
+    "categoria": "TIL",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 24,
+    "numero": "1",
+    "tripulacion": "Anibal Aliaga \\ Javier Marchese Can-Am Maverick R",
+    "categoria": "UTV",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 25,
+    "numero": "19",
+    "tripulacion": "Bradley Salazar \\ Josecarlo Espinoza Can-Am Maverick Rx",
+    "categoria": "UTV",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 26,
+    "numero": "577",
+    "tripulacion": "Jose Carlos Vallejo \\ Miguel Makino Vw Amarok V6",
+    "categoria": "T1",
     "tiempo": "Partio"
   }
 ]
