@@ -330,24 +330,24 @@
   },
   {
     "posicion": 48,
-    "numero": "140",
-    "tripulacion": "Grimaldo Lupo \\ Edwin Lupo Toyota Levin",
-    "categoria": "S1600",
-    "tiempo": "2:00:37.5"
-  },
-  {
-    "posicion": 49,
     "numero": "39",
     "tripulacion": "Roberto Matos F. \\ Alvaro Rivera Ford Fiesta",
     "categoria": "RC3",
     "tiempo": "2:01:09.7"
   },
   {
-    "posicion": 50,
+    "posicion": 49,
     "numero": "368",
     "tripulacion": "David Cahuana \\ Ayrton Ortega Honda Civic",
     "categoria": "S2000",
     "tiempo": "2:01:11.6"
+  },
+  {
+    "posicion": 50,
+    "numero": "140",
+    "tripulacion": "Grimaldo Lupo \\ Edwin Lupo Toyota Levin",
+    "categoria": "S1600",
+    "tiempo": "2:01:57.5 0:01:20.0"
   },
   {
     "posicion": 51,
@@ -463,24 +463,24 @@
   },
   {
     "posicion": 67,
-    "numero": "539",
-    "tripulacion": "Edgardo Arimborgo \\ Luis Alberto Perez Mahindra",
-    "categoria": "CAM",
-    "tiempo": "2:12:30.8"
-  },
-  {
-    "posicion": 68,
     "numero": "258",
     "tripulacion": "Alberth Mamani \\ Riquelme Mamani Volkswagen Gol",
     "categoria": "S1600",
     "tiempo": "2:13:31.3"
   },
   {
-    "posicion": 69,
+    "posicion": 68,
     "numero": "70",
     "tripulacion": "Sandro Davila V. \\ Cesar Ortiz Peugeot 208 R4",
     "categoria": "RC4",
     "tiempo": "2:13:47.1"
+  },
+  {
+    "posicion": 69,
+    "numero": "539",
+    "tripulacion": "Edgardo Arimborgo \\ Luis Alberto Perez Mahindra",
+    "categoria": "CAM",
+    "tiempo": "2:14:30.8 0:02:00.0"
   },
   {
     "posicion": 70,
@@ -494,28 +494,28 @@
     "numero": "386",
     "tripulacion": "Takeo Matayoshi \\ Diego Medina Subaru Brz",
     "categoria": "S2000",
-    "tiempo": "2:15:05.6"
+    "tiempo": "2:16:05.6 0:01:00.0"
   },
   {
     "posicion": 72,
     "numero": "240",
     "tripulacion": "Edwin Lupo \\ Yessica Yucra Toyota Corolla G6",
     "categoria": "S1600",
-    "tiempo": "2:16:15.1"
+    "tiempo": "2:16:45.1 0:00:30.0"
   },
   {
     "posicion": 73,
     "numero": "245",
     "tripulacion": "Luis Cornejo \\ Ricardo Caceres Toyota Levin",
     "categoria": "S1600",
-    "tiempo": "2:19:26.2"
+    "tiempo": "2:20:46.2 0:01:20.0"
   },
   {
     "posicion": 74,
     "numero": "28",
     "tripulacion": "Joel Manya \\ Joel Manya Can-Am",
     "categoria": "UTV",
-    "tiempo": "2:23:24.8"
+    "tiempo": "2:23:34.8 0:00:10.0"
   },
   {
     "posicion": 75,
@@ -529,7 +529,7 @@
     "numero": "266",
     "tripulacion": "Alonso Mejia \\ Daniel Mejia Subaru Impreza",
     "categoria": "S1600",
-    "tiempo": "2:28:54.5"
+    "tiempo": "2:29:34.5 0:00:40.0"
   },
   {
     "posicion": 77,
@@ -550,14 +550,14 @@
     "numero": "235",
     "tripulacion": "Luis Villasante \\ Jose Villasante Toyota Corolla",
     "categoria": "S1600",
-    "tiempo": "2:40:43.3"
+    "tiempo": "2:44:23.3 0:03:40.0"
   },
   {
     "posicion": 80,
     "numero": "431",
     "tripulacion": "Dante Febres \\ Andres Ramos Nissan Pulsar",
     "categoria": "ST",
-    "tiempo": "2:46:14.2"
+    "tiempo": "2:46:34.2 0:00:20.0"
   },
   {
     "posicion": 81,
@@ -998,14 +998,14 @@
     "numero": "431",
     "tripulacion": "Dante Febres \\ Andres Ramos Nissan Pulsar",
     "categoria": "ST",
-    "tiempo": "8:32:34.6"
+    "tiempo": "8:32:54.6 0:00:20.0"
   },
   {
     "posicion": 49,
     "numero": "539",
     "tripulacion": "Edgardo Arimborgo \\ Luis Alberto Perez Mahindra",
     "categoria": "CAM",
-    "tiempo": "8:33:30.2"
+    "tiempo": "8:35:30.2 0:02:00.0"
   },
   {
     "posicion": 50,
@@ -1026,7 +1026,7 @@
     "numero": "240",
     "tripulacion": "Edwin Lupo \\ Yessica Yucra Toyota Corolla G6",
     "categoria": "S1600",
-    "tiempo": "8:52:29.5 0:02:00.0"
+    "tiempo": "8:52:59.5 0:02:30.0"
   },
   {
     "posicion": 53,
@@ -1044,24 +1044,24 @@
   },
   {
     "posicion": 55,
-    "numero": "386",
-    "tripulacion": "Takeo Matayoshi \\ Diego Medina Subaru Brz",
-    "categoria": "S2000",
-    "tiempo": "9:17:40.4 0:06:00.0"
-  },
-  {
-    "posicion": 56,
     "numero": "620",
     "tripulacion": "Ronald Llihua \\ Ricardo Paitan Mitsubishi Evo Ix",
     "categoria": "TIL",
     "tiempo": "9:18:15.6 0:30:00.0"
   },
   {
+    "posicion": 56,
+    "numero": "386",
+    "tripulacion": "Takeo Matayoshi \\ Diego Medina Subaru Brz",
+    "categoria": "S2000",
+    "tiempo": "9:18:40.4 0:07:00.0"
+  },
+  {
     "posicion": 57,
     "numero": "245",
     "tripulacion": "Luis Cornejo \\ Ricardo Caceres Toyota Levin",
     "categoria": "S1600",
-    "tiempo": "9:21:41.6 0:03:20.0"
+    "tiempo": "9:23:01.6 0:04:40.0"
   },
   {
     "posicion": 58,
@@ -1075,7 +1075,7 @@
     "numero": "28",
     "tripulacion": "Joel Manya \\ Joel Manya Can-Am",
     "categoria": "UTV",
-    "tiempo": "9:29:26.6 0:30:00.0"
+    "tiempo": "9:29:36.6 0:30:10.0"
   },
   {
     "posicion": 60,
@@ -1103,14 +1103,14 @@
     "numero": "140",
     "tripulacion": "Grimaldo Lupo \\ Edwin Lupo Toyota Levin",
     "categoria": "S1600",
-    "tiempo": "9:50:46.5 0:30:00.0"
+    "tiempo": "9:52:06.5 0:31:20.0"
   },
   {
     "posicion": 64,
     "numero": "266",
     "tripulacion": "Alonso Mejia \\ Daniel Mejia Subaru Impreza",
     "categoria": "S1600",
-    "tiempo": "9:51:35.4 0:01:30.0"
+    "tiempo": "9:52:15.4 0:02:10.0"
   },
   {
     "posicion": 65,
@@ -1180,7 +1180,7 @@
     "numero": "235",
     "tripulacion": "Luis Villasante \\ Jose Villasante Toyota Corolla",
     "categoria": "S1600",
-    "tiempo": "11:48:53.8 0:34:40.0"
+    "tiempo": "11:52:33.8 0:38:20.0"
   },
   {
     "posicion": 75,
