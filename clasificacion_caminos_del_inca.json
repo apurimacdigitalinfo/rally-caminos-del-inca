@@ -554,79 +554,79 @@
   },
   {
     "posicion": 80,
-    "numero": "255",
-    "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
-    "categoria": "S1600",
-    "tiempo": "2:52:06.9"
-  },
-  {
-    "posicion": 81,
     "numero": "238",
     "tripulacion": "Isaac Paliza \\ Lino Bernachea Ford Escort",
     "categoria": "S1600(C)",
     "tiempo": "3:14:22.9"
   },
   {
-    "posicion": 82,
+    "posicion": 81,
     "numero": "58",
     "tripulacion": "Samuel M. Dyer \\ Javiera Roman Ford Fiesta Rally 3",
     "categoria": "RC3",
     "tiempo": "4:03:05.3"
   },
   {
-    "posicion": 83,
+    "posicion": 82,
     "numero": "57",
     "tripulacion": "Samuel Dyer \\ Julio Echazu Ford Fiesta Rally 3",
     "categoria": "RC3",
     "tiempo": "4:03:05.3"
   },
   {
-    "posicion": 84,
+    "posicion": 83,
     "numero": "627",
     "tripulacion": "Rosmel Chumpe \\ Reynaldo Chumpe Mitsubishi",
     "categoria": "TIL",
     "tiempo": "4:03:05.3"
   },
   {
-    "posicion": 85,
+    "posicion": 84,
     "numero": "784",
     "tripulacion": "Percy Ccoyo \\ Angel Tapia Toyota Gr Yaris",
     "categoria": "TIN",
     "tiempo": "4:03:05.3"
   },
   {
-    "posicion": 86,
+    "posicion": 85,
     "numero": "433",
     "tripulacion": "Briz Alvarado \\ Eric Sandhaus Honda Civic",
     "categoria": "ST",
     "tiempo": "4:03:05.3"
   },
   {
-    "posicion": 87,
+    "posicion": 86,
     "numero": "219",
     "tripulacion": "Erich Polack \\ Eduardo Bedoya Toyota Corolla",
     "categoria": "S1600",
     "tiempo": "4:03:05.3"
   },
   {
-    "posicion": 88,
+    "posicion": 87,
     "numero": "709",
     "tripulacion": "Edgar Loa Quispe \\ Guilles Yangali Toyota Yaris N5",
     "categoria": "TIN",
     "tiempo": "4:03:05.3"
   },
   {
-    "posicion": 89,
+    "posicion": 88,
     "numero": "365",
     "tripulacion": "Darwin Montoya \\ Rosmer Mamani Bmw 3 Series",
     "categoria": "S2000",
     "tiempo": "4:03:05.3"
   },
   {
-    "posicion": 90,
+    "posicion": 89,
     "numero": "678",
     "tripulacion": "Marko Garces \\ Luis Carazas Mitsubishi Evo V",
     "categoria": "TIL",
+    "tiempo": "4:03:05.3"
+  },
+  {
+    "posicion": 90,
+    "numero": "255",
+    "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
+    "categoria": "S1600",
     "tiempo": "4:03:05.3"
   },
   {
@@ -1247,24 +1247,24 @@
   },
   {
     "posicion": 84,
-    "numero": "255",
-    "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
-    "categoria": "S1600",
-    "tiempo": "12:09:36.4 1:00:30.0"
-  },
-  {
-    "posicion": 85,
     "numero": "657",
     "tripulacion": "Otto Quispeayala \\ Boris Ramos Subaru Impreza",
     "categoria": "TIL",
     "tiempo": "12:14:23.6 0:35:00.0"
   },
   {
-    "posicion": 86,
+    "posicion": 85,
     "numero": "93",
     "tripulacion": "Isaura Huallpartupa \\ Bernardino Huallpartupa Suzuki Celerio",
     "categoria": "PROM",
     "tiempo": "12:19:51.5 0:30:00.0"
+  },
+  {
+    "posicion": 86,
+    "numero": "255",
+    "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
+    "categoria": "S1600",
+    "tiempo": "13:20:34.8 1:00:30.0"
   },
   {
     "posicion": 87,
