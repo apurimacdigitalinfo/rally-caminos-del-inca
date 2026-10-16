@@ -988,24 +988,24 @@
   },
   {
     "posicion": 56,
+    "numero": "496",
+    "tripulacion": "Alex Garcia \\ Franklin Sullcaray Citroen Ds3",
+    "categoria": "ST",
+    "tiempo": "14:17:31.4 0:01:20.0"
+  },
+  {
+    "posicion": 57,
     "numero": "57",
     "tripulacion": "Samuel Dyer \\ Julio Echazu Ford Fiesta Rally 3",
     "categoria": "RC3",
     "tiempo": "14:25:16.7 0:30:00.0"
   },
   {
-    "posicion": 57,
+    "posicion": 58,
     "numero": "266",
     "tripulacion": "Alonso Mejia \\ Daniel Mejia Subaru Impreza",
     "categoria": "S1600",
     "tiempo": "14:36:48.9 0:02:10.0"
-  },
-  {
-    "posicion": 58,
-    "numero": "496",
-    "tripulacion": "Alex Garcia \\ Franklin Sullcaray Citroen Ds3",
-    "categoria": "ST",
-    "tiempo": "14:47:31.4 0:31:20.0"
   },
   {
     "posicion": 59,
