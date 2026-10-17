@@ -386,115 +386,115 @@
   },
   {
     "posicion": 56,
-    "numero": "384",
-    "tripulacion": "Carlos Alania \\ Brian Alania Honda Civic",
-    "categoria": "S2000",
-    "tiempo": "1:14:12.2"
-  },
-  {
-    "posicion": 57,
     "numero": "255",
     "tripulacion": "Javier Alvarado \\ Jeysson Sulluchuco Toyota Auris",
     "categoria": "S1600",
     "tiempo": "1:14:21.9"
   },
   {
-    "posicion": 58,
+    "posicion": 57,
     "numero": "224",
     "tripulacion": "Victor Del Pino \\ Angelo Posso Toyota Auris",
     "categoria": "S1600",
     "tiempo": "1:14:39.2"
   },
   {
-    "posicion": 59,
+    "posicion": 58,
     "numero": "240",
     "tripulacion": "Edwin Lupo \\ Yessica Yucra Toyota Corolla G6",
     "categoria": "S1600",
     "tiempo": "1:14:44.2"
   },
   {
-    "posicion": 60,
+    "posicion": 59,
     "numero": "219",
     "tripulacion": "Erich Polack \\ Eduardo Bedoya Toyota Corolla",
     "categoria": "S1600",
     "tiempo": "1:14:50.0"
   },
   {
-    "posicion": 61,
+    "posicion": 60,
     "numero": "386",
     "tripulacion": "Takeo Matayoshi \\ Diego Medina Subaru Brz",
     "categoria": "S2000",
     "tiempo": "1:15:17.5"
   },
   {
-    "posicion": 62,
+    "posicion": 61,
     "numero": "525",
     "tripulacion": "Fernando Alarcon \\ Renato Cuzzi Mitsubishi L200",
     "categoria": "CAM",
     "tiempo": "1:15:36.2"
   },
   {
-    "posicion": 63,
+    "posicion": 62,
     "numero": "610",
     "tripulacion": "Roel Torres \\ Juan Chipa Mitsubishi Evo Vii",
     "categoria": "TIL",
     "tiempo": "1:15:54.3"
   },
   {
-    "posicion": 64,
+    "posicion": 63,
     "numero": "158",
     "tripulacion": "Yerry Urday \\ Gustavo Cervantes Honda Civic",
     "categoria": "S1600",
     "tiempo": "1:16:22.6"
   },
   {
-    "posicion": 65,
+    "posicion": 64,
     "numero": "539",
     "tripulacion": "Edgardo Arimborgo \\ Luis Alberto Perez Mahindra",
     "categoria": "CAM",
     "tiempo": "1:16:40.2"
   },
   {
-    "posicion": 66,
+    "posicion": 65,
     "numero": "258",
     "tripulacion": "Alberth Mamani \\ Riquelme Mamani Volkswagen Gol",
     "categoria": "S1600",
     "tiempo": "1:16:45.2"
   },
   {
-    "posicion": 67,
+    "posicion": 66,
     "numero": "80",
     "tripulacion": "Horacio Canepa \\ Ricardo Figueroa Renault Clio",
     "categoria": "RC5",
     "tiempo": "1:16:50.4"
   },
   {
-    "posicion": 68,
+    "posicion": 67,
     "numero": "496",
     "tripulacion": "Alex Garcia \\ Franklin Sullcaray Citroen Ds3",
     "categoria": "ST",
     "tiempo": "1:16:53.5"
   },
   {
-    "posicion": 69,
+    "posicion": 68,
     "numero": "365",
     "tripulacion": "Darwin Montoya \\ Rosmer Mamani Bmw 3 Series",
     "categoria": "S2000",
     "tiempo": "1:18:38.4"
   },
   {
-    "posicion": 70,
+    "posicion": 69,
     "numero": "245",
     "tripulacion": "Luis Cornejo \\ Ricardo Caceres Toyota Levin",
     "categoria": "S1600",
     "tiempo": "1:19:11.5"
   },
   {
-    "posicion": 71,
+    "posicion": 70,
     "numero": "657",
     "tripulacion": "Otto Quispeayala \\ Boris Ramos Subaru Impreza",
     "categoria": "TIL",
     "tiempo": "1:20:30.6"
+  },
+  {
+    "posicion": 71,
+    "numero": "384",
+    "tripulacion": "Carlos Alania \\ Brian Alania Honda Civic",
+    "categoria": "S2000",
+    "tiempo": "1:20:32.2 0:06:20.0"
   },
   {
     "posicion": 72,
@@ -536,14 +536,14 @@
     "numero": "28",
     "tripulacion": "Joel Manya \\ Joel Manya Can-Am",
     "categoria": "UTV",
-    "tiempo": "1:26:42.9"
+    "tiempo": "1:27:02.9 0:00:20.0"
   },
   {
     "posicion": 78,
     "numero": "235",
     "tripulacion": "Luis Villasante \\ Jose Villasante Toyota Corolla",
     "categoria": "S1600",
-    "tiempo": "1:35:25.8"
+    "tiempo": "1:35:55.8 0:00:30.0"
   },
   {
     "posicion": 79,
@@ -809,7 +809,7 @@
     "numero": "384",
     "tripulacion": "Carlos Alania \\ Brian Alania Honda Civic",
     "categoria": "S2000",
-    "tiempo": "15:32:35.3"
+    "tiempo": "15:38:55.3 0:06:20.0"
   },
   {
     "posicion": 38,
@@ -921,7 +921,7 @@
     "numero": "28",
     "tripulacion": "Joel Manya \\ Joel Manya Can-Am",
     "categoria": "UTV",
-    "tiempo": "17:36:49.7 0:30:10.0"
+    "tiempo": "17:37:09.7 0:30:30.0"
   },
   {
     "posicion": 54,
@@ -1054,7 +1054,7 @@
     "numero": "235",
     "tripulacion": "Luis Villasante \\ Jose Villasante Toyota Corolla",
     "categoria": "S1600",
-    "tiempo": "21:53:33.0 1:08:20.0"
+    "tiempo": "21:54:03.0 1:08:50.0"
   },
   {
     "posicion": 73,
