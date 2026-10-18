@@ -15,44 +15,128 @@
   },
   {
     "posicion": 3,
+    "numero": "59",
+    "tripulacion": "Jorge Martinez \\ Jose Aros Hyundai I20 N",
+    "categoria": "RC2",
+    "tiempo": "0:07:06.2"
+  },
+  {
+    "posicion": 4,
+    "numero": "40",
+    "tripulacion": "Carlos Castro Yangali \\ Hernan Vargas Ford Fiesta",
+    "categoria": "RC3",
+    "tiempo": "0:07:06.8"
+  },
+  {
+    "posicion": 5,
+    "numero": "724",
+    "tripulacion": "Ronmel Palomino \\ Guillermo Sierra Skoda Fabia N5",
+    "categoria": "TIN",
+    "tiempo": "0:07:09.2"
+  },
+  {
+    "posicion": 6,
     "numero": "716",
     "tripulacion": "Raul Orlandini \\ Pedro La Cruz Mitsubishi Evo X",
     "categoria": "TIN",
     "tiempo": "0:07:09.9"
   },
   {
-    "posicion": 4,
-    "numero": "724",
-    "tripulacion": "Ronmel Palomino \\ Guillermo Sierra Skoda Fabia N5",
-    "categoria": "TIN",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 5,
-    "numero": "59",
-    "tripulacion": "Jorge Martinez \\ Jose Aros Hyundai I20 N",
-    "categoria": "RC2",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 6,
-    "numero": "40",
-    "tripulacion": "Carlos Castro Yangali \\ Hernan Vargas Ford Fiesta",
-    "categoria": "RC3",
-    "tiempo": "Partio"
-  },
-  {
     "posicion": 7,
+    "numero": "58",
+    "tripulacion": "Samuel M. Dyer \\ Javiera Roman Ford Fiesta Rally 3",
+    "categoria": "RC3",
+    "tiempo": "0:07:11.7"
+  },
+  {
+    "posicion": 8,
+    "numero": "52",
+    "tripulacion": "Nelson Quispe \\ Erik Quispe Renault Clio",
+    "categoria": "RC3",
+    "tiempo": "0:07:23.9"
+  },
+  {
+    "posicion": 9,
+    "numero": "57",
+    "tripulacion": "Samuel Dyer \\ Julio Echazu Ford Fiesta Rally 3",
+    "categoria": "RC3",
+    "tiempo": "0:07:29.6"
+  },
+  {
+    "posicion": 10,
+    "numero": "712",
+    "tripulacion": "Luis Alayza \\ Gabriel Lozada Toyota Gr Yaris",
+    "categoria": "TIN",
+    "tiempo": "0:07:35.0"
+  },
+  {
+    "posicion": 11,
+    "numero": "520",
+    "tripulacion": "Jesus Jurado \\ Carlos Elias Toyota Hilux",
+    "categoria": "T1",
+    "tiempo": "0:07:38.1"
+  },
+  {
+    "posicion": 12,
+    "numero": "68",
+    "tripulacion": "Rodrigo Ccoyo \\ Alvaro Chavez Peugeot 208 R4",
+    "categoria": "RC4",
+    "tiempo": "0:07:41.3"
+  },
+  {
+    "posicion": 13,
+    "numero": "67",
+    "tripulacion": "Raul Ccoyo \\ Alvaro Cornejo Renault Clio",
+    "categoria": "RC4",
+    "tiempo": "0:07:46.1"
+  },
+  {
+    "posicion": 14,
+    "numero": "66",
+    "tripulacion": "Jose Frisancho \\ Francisco Tiravanti Peugeot 208",
+    "categoria": "RC4",
+    "tiempo": "0:08:12.7"
+  },
+  {
+    "posicion": 15,
     "numero": "734",
     "tripulacion": "Richard Palomino \\ Jose Rojas Skoda Fabia N5",
     "categoria": "TIN",
     "tiempo": "Partio"
   },
   {
-    "posicion": 8,
-    "numero": "58",
-    "tripulacion": "Samuel M. Dyer \\ Javiera Roman Ford Fiesta Rally 3",
-    "categoria": "RC3",
+    "posicion": 16,
+    "numero": "570",
+    "tripulacion": "Alvaro Silva \\ Paolo Zani Vw Amarok V6",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 17,
+    "numero": "577",
+    "tripulacion": "Jose Carlos Vallejo \\ Miguel Makino Vw Amarok V6",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 18,
+    "numero": "729",
+    "tripulacion": "Wilfredo Aysa \\ Samael Bendezu Skoda Fabia Aos",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 19,
+    "numero": "1",
+    "tripulacion": "Anibal Aliaga \\ Javier Marchese Can-Am Maverick R",
+    "categoria": "UTV",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 20,
+    "numero": "540",
+    "tripulacion": "Diego Malaga \\ Oswaldo Carbone Vw Amarok V6",
+    "categoria": "T1",
     "tiempo": "Partio"
   },
   {
@@ -71,44 +155,128 @@
   },
   {
     "posicion": 3,
+    "numero": "59",
+    "tripulacion": "Jorge Martinez \\ Jose Aros Hyundai I20 N",
+    "categoria": "RC2",
+    "tiempo": "13:40:46.3"
+  },
+  {
+    "posicion": 4,
     "numero": "716",
     "tripulacion": "Raul Orlandini \\ Pedro La Cruz Mitsubishi Evo X",
     "categoria": "TIN",
     "tiempo": "13:41:21.2"
   },
   {
-    "posicion": 4,
+    "posicion": 5,
     "numero": "724",
     "tripulacion": "Ronmel Palomino \\ Guillermo Sierra Skoda Fabia N5",
     "categoria": "TIN",
-    "tiempo": "Partio"
-  },
-  {
-    "posicion": 5,
-    "numero": "59",
-    "tripulacion": "Jorge Martinez \\ Jose Aros Hyundai I20 N",
-    "categoria": "RC2",
-    "tiempo": "Partio"
+    "tiempo": "13:47:42.6"
   },
   {
     "posicion": 6,
-    "numero": "40",
-    "tripulacion": "Carlos Castro Yangali \\ Hernan Vargas Ford Fiesta",
-    "categoria": "RC3",
-    "tiempo": "Partio"
+    "numero": "712",
+    "tripulacion": "Luis Alayza \\ Gabriel Lozada Toyota Gr Yaris",
+    "categoria": "TIN",
+    "tiempo": "13:52:09.4 0:00:10.0"
   },
   {
     "posicion": 7,
+    "numero": "68",
+    "tripulacion": "Rodrigo Ccoyo \\ Alvaro Chavez Peugeot 208 R4",
+    "categoria": "RC4",
+    "tiempo": "14:40:50.5"
+  },
+  {
+    "posicion": 8,
+    "numero": "67",
+    "tripulacion": "Raul Ccoyo \\ Alvaro Cornejo Renault Clio",
+    "categoria": "RC4",
+    "tiempo": "14:42:30.0"
+  },
+  {
+    "posicion": 9,
+    "numero": "66",
+    "tripulacion": "Jose Frisancho \\ Francisco Tiravanti Peugeot 208",
+    "categoria": "RC4",
+    "tiempo": "15:18:01.4"
+  },
+  {
+    "posicion": 10,
+    "numero": "520",
+    "tripulacion": "Jesus Jurado \\ Carlos Elias Toyota Hilux",
+    "categoria": "T1",
+    "tiempo": "15:28:15.3"
+  },
+  {
+    "posicion": 11,
+    "numero": "40",
+    "tripulacion": "Carlos Castro Yangali \\ Hernan Vargas Ford Fiesta",
+    "categoria": "RC3",
+    "tiempo": "15:37:25.7 0:30:00.0"
+  },
+  {
+    "posicion": 12,
+    "numero": "52",
+    "tripulacion": "Nelson Quispe \\ Erik Quispe Renault Clio",
+    "categoria": "RC3",
+    "tiempo": "16:32:31.8 0:30:00.0"
+  },
+  {
+    "posicion": 13,
+    "numero": "58",
+    "tripulacion": "Samuel M. Dyer \\ Javiera Roman Ford Fiesta Rally 3",
+    "categoria": "RC3",
+    "tiempo": "18:33:40.9 0:30:30.0"
+  },
+  {
+    "posicion": 14,
+    "numero": "57",
+    "tripulacion": "Samuel Dyer \\ Julio Echazu Ford Fiesta Rally 3",
+    "categoria": "RC3",
+    "tiempo": "18:48:26.7 0:30:00.0"
+  },
+  {
+    "posicion": 15,
     "numero": "734",
     "tripulacion": "Richard Palomino \\ Jose Rojas Skoda Fabia N5",
     "categoria": "TIN",
     "tiempo": "Partio"
   },
   {
-    "posicion": 8,
-    "numero": "58",
-    "tripulacion": "Samuel M. Dyer \\ Javiera Roman Ford Fiesta Rally 3",
-    "categoria": "RC3",
+    "posicion": 16,
+    "numero": "570",
+    "tripulacion": "Alvaro Silva \\ Paolo Zani Vw Amarok V6",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 17,
+    "numero": "577",
+    "tripulacion": "Jose Carlos Vallejo \\ Miguel Makino Vw Amarok V6",
+    "categoria": "T1",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 18,
+    "numero": "729",
+    "tripulacion": "Wilfredo Aysa \\ Samael Bendezu Skoda Fabia Aos",
+    "categoria": "TIN",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 19,
+    "numero": "1",
+    "tripulacion": "Anibal Aliaga \\ Javier Marchese Can-Am Maverick R",
+    "categoria": "UTV",
+    "tiempo": "Partio"
+  },
+  {
+    "posicion": 20,
+    "numero": "540",
+    "tripulacion": "Diego Malaga \\ Oswaldo Carbone Vw Amarok V6",
+    "categoria": "T1",
     "tiempo": "Partio"
   }
 ]
